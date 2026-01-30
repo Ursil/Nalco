@@ -1,6 +1,7 @@
 # HOSPITAL MANAGEMENT SYSTEM
 ***
 IT IS HOSPITAL MANAGEMENT SYSTEM 
+
 This website is made of two components: 
 Front-End(developed with ReactJS+Vite)(available in the folder hosp_mgmt)
 Back-End(nodejs + expressjs)(available in the folder node-server)
